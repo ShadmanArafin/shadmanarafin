@@ -12,12 +12,12 @@
 - 👯 I’m looking to collaborate on **UI/UX & Web Design.**
 
 - 👨‍💻 All of my projects are available at : <span align="left">
-<a href="https://github.com/ShadmanArafin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="ShadmanArafin" height="40" width="40" /></a></span> **github.com/ShadmanArafin**
+<a href="https://github.com/ShadmanArafin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="ShadmanArafin" height="50" width="50" /></a></span> **github.com/ShadmanArafin**
 
 
-- 📫 <span align="left"> You can contact me at : <a href="https://shadmanarafinsezan@gmail.com" target="blank"><img align="center" src="google.png" alt="ShadmanArafin" height="30" width="30" /></a></span> **shadmanarafinsezan@gmail.com**
+- 📫 <span align="left"> You can contact me at : <a href="https://shadmanarafinsezan@gmail.com" target="blank"><img align="center" src="google.png" alt="ShadmanArafin" height="40" width="40" /></a></span> **shadmanarafinsezan@gmail.com**
 
-- 📄 <span align="left"> Know about my experiences from : <a href="https://linkedin.com/in/shadmanarafin" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="ShadmanArafin" height="30" width="30" /></a></span> **linkedin.com/in/shadmanarafin**
+- 📄 <span align="left"> Know about my experiences from : <a href="https://linkedin.com/in/shadmanarafin" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="ShadmanArafin" height="40" width="40" /></a></span> **linkedin.com/in/shadmanarafin**
 
 
 
