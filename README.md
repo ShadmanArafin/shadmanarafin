@@ -1,8 +1,7 @@
-<img src="Banner.jpeg" >
-<h3 align="center">A passionate UI/UX & Web Designer and a recent graduate who's looking for an opportunity.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadmanarafin&label=Profile%20views&color=0e75b6&style=flat" alt="shadmanarafin" /> </p>
 
+<img src="Banner.jpeg" >
+<h3 align="center">A passionate UI/UX & Web Designer and a recent graduate who's looking for an opportunity.</h3>
 
 <img align="right" src="coding.gif" width="300">
 
@@ -12,11 +11,13 @@
 
 - 👯 I’m looking to collaborate on **UI/UX & Web Design.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShadmanArafin](https://github.com/ShadmanArafin)
+- 👨‍💻 All of my projects are available at : <span align="left">
+<a href="https://github.com/ShadmanArafin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="ShadmanArafin" height="40" width="40" /></a></span> **github.com/ShadmanArafin**
 
-- 📫 How to reach me **shadmanarafinsezan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shadmanarafin](https://www.linkedin.com/in/shadmanarafin)
+- 📫 <span align="left"> You can contact me at : <a href="https://shadmanarafinsezan@gmail.com" target="blank"><img align="center" src="google.png" alt="ShadmanArafin" height="30" width="30" /></a></span> **shadmanarafinsezan@gmail.com**
+
+- 📄 <span align="left"> Know about my experiences from : <a href="https://linkedin.com/in/shadmanarafin" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="ShadmanArafin" height="30" width="30" /></a></span> **linkedin.com/in/shadmanarafin**
 
 
 
@@ -29,38 +30,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👨‍💻 All of my projects are available at :<span align="left">
-<a href="https://github.com/rahmantouhid" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="touhidur-rahman-548021196" height="40" width="40" /></a></span>
-
-- 📫 <span align="left"> How to reach me :  <img align="center" src="google.png" alt="touhidur-rahman-548021196" height="30" width="30" /> - rahmantouhid@gmail.com </span>
-
-- 📄 <span align="left"> Know about my experiences :  <a href="https://linkedin.com/in/touhidur-rahman-548021196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touhidur-rahman-548021196" height="30" width="30" /></a></span>
 
 
 <p></p>
