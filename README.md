@@ -48,7 +48,7 @@
 
 
 
-<img src="Bannner.png" width="1000">
+<img src="Banner.jpeg" >
 
 
 <img align="right" src="coding.gif" width="300">
