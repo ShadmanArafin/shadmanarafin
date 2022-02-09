@@ -93,35 +93,20 @@
 <h6>Click on the project screen-shots below to view the Full Detailed Images 👇🏻👇🏽</h6>
 
 <a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
  &nbsp;&nbsp;&nbsp;
  <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
-  <img src="super-sale.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="super-sale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
  &nbsp;&nbsp;&nbsp;
  <a href="https://www.figma.com/file/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer">
-  <img src="beats-offer.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
 <br><br>
 <a href="https://www.figma.com/file/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro">
-  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
  <a href="https://www.figma.com/file/UmDZQhR5tMkFTAsUyrPpwA/MacBookPro-Offer">
-  <img src="macbook-offer.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="macbook-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
  &nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/file/VFyxiA2mIxeUYRTzbSizdn/Apple-Watch-4-Pro">
-  <img src="apple-watch-offer.png" alt="NikeSuperSale" style="width:250px;height:120px;border:2"></a>
+  <img src="apple-watch-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
