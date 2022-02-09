@@ -32,7 +32,7 @@
 
 <br><br>
 
-<h1 align="center">Projects Showcase</h1>
+<h1 align="center">Personal Projects Showcase</h1>
 
 <br><br>
 <h2>1. E-commerce Website UI Design</h2>
