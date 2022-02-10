@@ -100,7 +100,7 @@
  &nbsp;&nbsp;&nbsp;
  <a href="https://www.figma.com/file/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer">
   <img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/file/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro">
   <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
