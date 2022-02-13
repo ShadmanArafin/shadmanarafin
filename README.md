@@ -38,24 +38,24 @@
 <h2>1. E-commerce Website UI Design</h2>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce">
-  <img src="amazin.jpeg" alt="SuperSale" style="width="700"; height="300"; border:2">
+<a href="https://www.figma.com/proto/4upEOnJeLzoAq7HExj8grB/E-commerce?page-id=54%3A592&node-id=138%3A38838&viewport=250%2C48%2C0.05&scaling=scale-down-width&starting-point-node-id=138%3A38838">
+<img src="amazin.jpeg" alt="SuperSale" style="width="700"; height="300"; border:2">
 </a>
 
 <br><br><br>
 <h2>2. Chef's Cuisine Website UI Design</h2>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website">
-  <img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
+<a href="https://www.figma.com/proto/3vnu9KmzUhzNDnmgJCQQkx/Chefs-Cuisine-Website?page-id=0%3A1&node-id=26%3A22&starting-point-node-id=26%3A22&scaling=scale-down-width">
+<img  src="chef.jpeg" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
 </a>
 
 <br><br><br>
 
 <h2>3. Dashboard Design (Dark Mode)</h2>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
-<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App">
-  <img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
+<a href="https://www.figma.com/proto/xI0VdpWzbmHi42xnsPbCHL/Dashboard-Health-App?page-id=0%3A1&node-id=57%3A44&starting-point-node-id=57%3A44&scaling=scale-down-width">
+<img src="dashboard.jpeg" alt="DarkMode" style="width="680"; height="300"; border:2" >
 </a>
 
 <br><br><br>
@@ -64,17 +64,17 @@
 <h3>Parallax Effect</h3>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax">
-  <img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
+<a href="https://www.figma.com/proto/64XuEOAKIpMHQaGET4Hdvi/Parallax?page-id=0%3A1&node-id=1%3A663&viewport=250%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=1%3A663">
+<img src="parallax.jpeg" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
 </a>
 
 
 <br><br><br>
-<h3>Slide Effect</h3>
+<h3>Expand/Slide Effect</h3>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro">
-  <img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
+<a href="https://www.figma.com/proto/dZVrzcJT1PPZDBH6B8NSWd/AirpodsPro?page-id=0%3A1&node-id=1%3A67&starting-point-node-id=1%3A67&scaling=scale-down-width">
+<img src="airpods.jpeg" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
 </a>
 
 <br><br><br>
@@ -83,8 +83,8 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
 
-<a href="https://www.figma.com/proto/aKL2Gm4PSbwFSktz4HNiFM/Apple-Landing-Page">
-  <img src="landing-page.jpeg" alt="apple" style="width="280"; height="400"; border:2" >
+<a href="https://www.figma.com/proto/6YymHfpKihXqvn6xUSrDrC/Apple-Landing-Page?page-id=0%3A1&node-id=1%3A2&starting-point-node-id=1%3A2&scaling=scale-down-width">
+<img src="landing-page.jpeg" alt="apple" style="width="280"; height="400"; border:2" >
 </a>
 
 <br><br><br>
@@ -92,16 +92,16 @@
 <h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shots below to view the Full Detailed Images 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/file/IL6BhiwcC7APnhSohBQdca/Nike-sale">
-  <img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
- &nbsp;&nbsp;&nbsp;
- <a href="https://www.figma.com/file/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale">
-  <img src="super-sale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
- &nbsp;&nbsp;&nbsp;
- <a href="https://www.figma.com/file/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer">
-  <img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.figma.com/proto/IL6BhiwcC7APnhSohBQdca/Nike-sale?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.54&scaling=scale-down">
+<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/file/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro">
-  <img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.figma.com/proto/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale?page-id=0%3A1&node-id=3%3A10&viewport=250%2C48%2C1&scaling=scale-down">
+<img src="super-sale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/proto/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer?page-id=0%3A1&node-id=2%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/proto/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
+<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
  
