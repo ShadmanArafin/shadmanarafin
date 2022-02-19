@@ -20,7 +20,7 @@
 
 - 📫 <span align="left"> You can contact me at : <a href="https://shadmanarafinsezan@gmail.com" target="blank"><img align="center" src="google.png" alt="ShadmanArafin" height="35" width="35" /></a></span> **shadmanarafinsezan@gmail.com**
 
-- 📄 <span align="left"> Know about my experiences from : <a href="https://linkedin.com/in/shadmanarafin" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="ShadmanArafin" height="35" width="35" /></a></span> **linkedin.com/in/shadmanarafin**
+- 📄 <span align="left"> Know about my experiences from : <a href="https://linkedin.com/in/shadmanarafin" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png" alt="ShadmanArafin" height="35" width="35" /></a></span> 
 
 <br>
 
