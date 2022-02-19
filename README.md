@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="Banner.jpeg" >
+<img src="MyBanner.jpeg" >
 
 <h3 align="center">A passionate UI/UX & Web Designer and a recent graduate who's looking for an opportunity.</h3>
 
