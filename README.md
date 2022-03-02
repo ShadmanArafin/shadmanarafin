@@ -49,7 +49,7 @@
 
 <br><br>
 
-<h2><align="left">My Resume:</h2>
+<h2><align="left">My Resume :</h2>
 
 <h4>If you want to know more about myself then you can download my full Resume by clicking the "Download Resume" button from below 👇🏻</h4><br>
 <a href="https://drive.google.com/file/d/1bLHj3KjYsuHWh9tf5WVpzLCgmb4m-ziJ/view?usp=sharing">
@@ -109,7 +109,7 @@
 <br><br><br>
 <h2>6. Animated Web Design</h2>
 
-<h3>Parallax Effect</h3>
+<i><b><h3>Parallax Effect</h3></b></i>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.behance.net/gallery/138411119/Parallax-Effect-Animated-Web-Design">
@@ -118,7 +118,7 @@
 
 
 <br><br><br>
-<h3>Sliding Effect</h3>
+<i><b><h3>Sliding Effect</h3></b></i>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇🏻👇🏽</h6>
 
 <a href="https://www.behance.net/gallery/138410763/Sliding-Effect-Animated-Web-Design">
