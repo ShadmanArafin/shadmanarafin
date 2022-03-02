@@ -4,7 +4,7 @@
 
 <img src="MyBanner.jpeg" >
 
-<h3 align="center">A passionate 📱 UI/UX & Web Designer 👨‍🎨 and a recent 👨‍🎓 graduate 🎓 who's looking for an opportunity.</h3>
+<h3 align="center">A passionate 📱<i><b> UI/UX & Web Designer</b></i> 👨‍🎨 and a recent 👨‍🎓<i><b> graduate</b></i> 🎓 who's looking for an opportunity.</h3>
 
 <br><br>
 
@@ -64,7 +64,7 @@
 <br><br>
  
 <h2>1. Online Shopping - Mobile App UI Design</h2>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138419467/Online-Shopping-Mobile-App-UI-Design">
 <img src="app-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
@@ -73,7 +73,7 @@
 <br><br><br>
  
 <h2>2. Food Delivery - Mobile App UI Design</h2>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138419245/Food-Delivery-Mobile-App-UI-Design">
 <img  src="app-food.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
@@ -82,7 +82,7 @@
 <br><br><br>
  
 <h2>3. Restaurant - Website UI Design</h2>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138418675/Restaurant-Website-UI-Design">
 <img  src="web-food.png" alt="chefs cuisine ui design" style="width="900"; height="500"; border:2">
@@ -91,7 +91,7 @@
 <br><br><br>
 
 <h2>4. E-commerce - Website UI Design</h2>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138418451/E-commerce-Website-UI-Design">
 <img src="web-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
@@ -101,7 +101,7 @@
 
 
 <h2>5. Fitness App - Dashboard UI Design with Dark Mode Switch</h2>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 <a href="https://www.behance.net/gallery/138415907/Fitness-App-Dashboard-UI-Design-with-Dark-Mode-Switch">
 <img src="app-dashboard-ui.png" alt="DarkMode" style="width="900"; height="500"; border:2">
 </a>
@@ -110,7 +110,7 @@
 <h2>6. Animated Web Design</h2>
 
 <i><b><h3>Parallax Effect</h3></b></i>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138411119/Parallax-Effect-Animated-Web-Design">
 <img src="web-parallax.png" alt="nightsky-parallax" style="width="900"; height="500"; border:2">
@@ -119,7 +119,7 @@
 
 <br><br><br>
 <i><b><h3>Sliding Effect</h3></b></i>
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138410763/Sliding-Effect-Animated-Web-Design">
 <img src="web-slide.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2">
@@ -128,7 +128,7 @@
 <br><br><br>
 <h2>7. Landing Page - Web Design</h2>
 
-<h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
+<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
 
 
 <a href="https://www.behance.net/gallery/138410433/Landing-Page-Web-Design">
@@ -138,7 +138,7 @@
 <br><br><br>
 
 <h2>8. Product Sale Ad Banners Design</h2>
-<h6>Click on the project screen-shots below to view the Full Detailed Images 👇👇🏻</h6>
+<h6>Click on the project thumbnails below to view the Full Detailed Images 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
 <img src="super-sale.png" alt="NikeSuperSale" style="width:400px;height:210px;border:2"></a>
