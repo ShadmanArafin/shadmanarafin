@@ -119,16 +119,19 @@
 <h2>6. Promotional/Sale Banner Design</h2>
 <h6>Click on the project screen-shots below to view the Full Detailed Images 👇🏻👇🏽</h6>
 
-<a href="https://www.figma.com/proto/IL6BhiwcC7APnhSohBQdca/Nike-sale?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.54&scaling=scale-down">
-<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners">
+<img src="super-sale.png" alt="NikeSuperSale" style="width:350px;height:180px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/9lAXRmf1HrQJTZ3BEk2HgC/SuperSale?page-id=0%3A1&node-id=3%3A10&viewport=250%2C48%2C1&scaling=scale-down">
-<img src="super-sale.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners">
+<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:350px;height:180px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/Co5Ct0OZiUbgUM9szoJs64/Beats-Offer?page-id=0%3A1&node-id=2%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
-<img src="beats-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners">
+<img src="beats-offer.png" alt="NikeSuperSale" style="width:350px;height:180px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/proto/E5Msk6YDEpLVgFrJfTonqz/OnePlus-10-Pro?page-id=0%3A1&node-id=1%3A2&viewport=250%2C48%2C0.72&scaling=scale-down">
-<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:300px;height:150px;border:2"></a>
+<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners">
+<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:350px;height:180px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
+
+
+
  
