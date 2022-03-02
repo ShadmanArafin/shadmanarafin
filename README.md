@@ -10,11 +10,11 @@
 
 <img align="right" src="coding.gif" width="300">
 
-- 🔭 I’m currently working on **My Personal Website 💻 in Wordpress 🔤**
+- 🔭 I’m currently working on <i><b>My Personal Website 💻 in Wordpress 🔤</b></i>
 
-- 🌱 I’m currently learning **Unity & Unreal Engine ⚙**
+- 🌱 I’m currently learning <i><b>Unity & Unreal Engine ⚙</b></i>
 
-- 👯 I’m looking to collaborate on **UI/UX & Web Design 🎨**
+- 👯 I’m looking to collaborate on <i><b>UI/UX & Web Design 🎨</b></i>
 
 - 👨‍💻 All of my projects are available at : &nbsp; <span align="left"><a href="https://github.com/ShadmanArafin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="ShadmanArafin" height="40" width="40" /></a> &nbsp; <a href="https://www.behance.net/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRde9DErvg_6bYD5XElEA9JsB1Y4unw8m67rg&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a> &nbsp; <a href="https://dribbble.com/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2_ReXuzRMOYYpv8Y93I8QAub9pvapxuSPb83HoOEkd1NWzhJQRjf0uw6h0ZDGQvZejk&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a></span> 
 
@@ -49,7 +49,7 @@
 
 <br><br>
 
-<h1 align="center">Personal Projects Showcase 📽</h1>
+<i><b><h1 align="center">Personal Projects Showcase 📽</h1></b></i>
 
 <br><br>
 <h2>1. E-commerce Website UI Design</h2>
