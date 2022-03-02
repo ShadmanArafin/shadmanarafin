@@ -141,16 +141,16 @@
 <h6>Click on the project screen-shots below to view the Full Detailed Images 👇🏻👇🏽</h6>
 
 <a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="super-sale.png" alt="NikeSuperSale" style="width:400px;height:250px;border:2"></a>
+<img src="super-sale.png" alt="NikeSuperSale" style="width:400px;height:210px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:400px;height:250px;border:2"></a>
+<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:400px;height:210px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="beats-offer.png" alt="NikeSuperSale" style="width:400px;height:250px;border:2"></a>
+<img src="beats-offer.png" alt="NikeSuperSale" style="width:400px;height:210px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:400px;height:250px;border:2"></a>
+<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:400px;height:210px;border:2"></a>
 &nbsp;&nbsp;&nbsp;
 
 
