@@ -52,7 +52,7 @@
 <h2><align="left">My Resume :</h2>
 
 <h4>If you want to know more about myself then you can download my full Resume by clicking the "Download Resume" button from below 👇🏻</h4><br>
-<a href="https://drive.google.com/file/d/1bLHj3KjYsuHWh9tf5WVpzLCgmb4m-ziJ/view?usp=sharing">
+<a href="https://drive.google.com">
 <p align="center"><img src="resume-button.png" alt="pic" style="width="50"; height="50"; border:2"></p></a>
  
  
@@ -67,7 +67,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138419467/Online-Shopping-Mobile-App-UI-Design">
-<img src="app-ecommerce.png" alt="SuperSale" style="width="700"; height="300"; border:2">
+<img src="app-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -76,7 +76,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138419245/Food-Delivery-Mobile-App-UI-Design">
-<img  src="app-food.png" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
+<img  src="app-food.png" alt="chefs cuisine ui design" style="width="1000"; height="550"; border:2" >
 </a>
 
 <br><br><br>
@@ -85,7 +85,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138418675/Restaurant-Website-UI-Design">
-<img  src="web-food.png" alt="chefs cuisine ui design" style="width="790"; height="300"; border:2" >
+<img  src="web-food.png" alt="chefs cuisine ui design" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -94,7 +94,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138418451/E-commerce-Website-UI-Design">
-<img src="web-ecommerce.png" alt="SuperSale" style="width="700"; height="300"; border:2">
+<img src="web-ecommerce.png" alt="SuperSale" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -103,7 +103,7 @@
 <h2>5. Fitness App - Dashboard UI Design with Dark Mode Switch</h2>
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 <a href="https://www.behance.net/gallery/138415907/Fitness-App-Dashboard-UI-Design-with-Dark-Mode-Switch">
-<img src="app-dashboard-ui.png" alt="DarkMode" style="width="680"; height="300"; border:2" >
+<img src="app-dashboard-ui.png" alt="DarkMode" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -113,7 +113,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138411119/Parallax-Effect-Animated-Web-Design">
-<img src="web-parallax.png" alt="nightsky-parallax" style="width="880"; height="300"; border:2" >
+<img src="web-parallax.png" alt="nightsky-parallax" style="width="900"; height="500"; border:2">
 </a>
 
 
@@ -122,7 +122,7 @@
 <h6>Click on the project screen-shots below to watch the LIVE DEMO 👇👇🏻</h6>
 
 <a href="https://www.behance.net/gallery/138410763/Sliding-Effect-Animated-Web-Design">
-<img src="web-slide.png" alt="AirPodsSlideIn" style="width="840"; height="300"; border:2" >
+<img src="web-slide.png" alt="AirPodsSlideIn" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
@@ -132,7 +132,7 @@
 
 
 <a href="https://www.behance.net/gallery/138410433/Landing-Page-Web-Design">
-<img src="web-landingpage.png" alt="apple" style="width="280"; height="400"; border:2" >
+<img src="web-landingpage.png" alt="apple" style="width="900"; height="500"; border:2">
 </a>
 
 <br><br><br>
