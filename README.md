@@ -50,7 +50,7 @@
 <h2><align="left">My Resume :</h2>
 
 <h4>If you want to know more about myself then you can download my full Resume by clicking the <i><b>"Download Resume"</b></i> button from below 👇🏻</h4><br>
-<a href="https://drive.google.com/file/d/11v7ILYdM0WxXfATmuO3OgLlBcBlkDmZJ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1aYW-7s9s8LqmEgl79URep-cvjyrUEbD8/view?usp=sharing">
 <p align="center"><img src="resume-button.png" alt="pic" style="width="50"; height="50"; border:2"></p></a>
  
  
