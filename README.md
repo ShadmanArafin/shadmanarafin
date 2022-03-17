@@ -4,17 +4,17 @@
 
 <img src="MyBanner.jpeg" >
 
-<h3 align="center">A passionate 📱<i><b> UI/UX & Web Designer</b></i> 👨‍🎨 and a recent 👨‍🎓<i><b> graduate</b></i> 🎓 who's looking for an opportunity.</h3>
+<h3 align="center">A passionate 📱<i><b> Front End Developer & UI/UX & Web Designer </b></i> 👨‍🎨 and a recent 👨‍🎓<i><b> graduate</b></i> 🎓 who's looking for an opportunity.</h3>
 
 <br><br>
 
 <img align="right" src="coding.gif" width="300">
 
-- 🔭 I’m currently working on <i><b>My Personal Website 💻 in Wordpress 🔤</b></i>
+- 🔭 I’m currently working on <i><b>My Personal Website 💻</b></i>
 
 - 🌱 I’m currently learning <i><b>Unity & Unreal Engine ⚙</b></i>
 
-- 👯 I’m looking to collaborate on <i><b>UI/UX & Web Design 🎨</b></i>
+- 👯 I’m looking to collaborate on <i><b>Front End Development 🎨</b></i>
 
 - 👨‍💻 All of my projects are available at : &nbsp; <span align="left"><a href="https://github.com/ShadmanArafin" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="ShadmanArafin" height="40" width="40" /></a> &nbsp; <a href="https://www.behance.net/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRde9DErvg_6bYD5XElEA9JsB1Y4unw8m67rg&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a> &nbsp; <a href="https://dribbble.com/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2_ReXuzRMOYYpv8Y93I8QAub9pvapxuSPb83HoOEkd1NWzhJQRjf0uw6h0ZDGQvZejk&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a></span> 
 
