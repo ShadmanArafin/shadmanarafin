@@ -4,7 +4,7 @@
 
 <img src="MyBanner.jpeg" >
 
-<h3 align="center">A passionate 📱<i><b> Front End Developer, UI/UX & Web Designer </b></i> 👨‍🎨 and a recent 👨‍🎓<i><b> graduate</b></i> 🎓 who's looking for an opportunity.</h3>
+<h3 align="center"><i><b> UI/UX,Web & Product Designer </b></i>.</h3>
 
 <br><br>
 
