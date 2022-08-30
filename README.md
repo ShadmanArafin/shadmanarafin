@@ -4,7 +4,7 @@
 
 <img src="MyBanner.jpeg" >
 
-<h3 align="center"><i><b> UI/UX,Web & Product Designer </b></i>.</h3>
+<h3 align="center"><i><b>UI/UX, Web & Product Designer</b></i>.</h3>
 
 <br><br>
 
