@@ -10,7 +10,7 @@
 
 <img align="right" src="coding.gif" width="300">
 
-- 🔭 I’m currently working at <i><b>Doptor ltd. as an UI/UX Designer.</b></i>
+- 🔭 I’m currently working at <i><b>Zaag Systems ltd. as an UI/UX Designer.</b></i>
 
 - 🌱 I’m currently learning <i><b>Webflow & Framer.</b></i>
 
