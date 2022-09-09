@@ -124,32 +124,7 @@
 </a>
 
 <br><br><br>
-<h2>7. Landing Page - Web Design</h2>
 
-<h6>Click on the thumbnail image below to see the complete LIVE Preview of this project 👇👇🏻</h6>
-
-
-<a href="https://www.behance.net/gallery/138410433/Landing-Page-Web-Design">
-<img src="web-landingpage.png" alt="apple" style="width="900"; height="500"; border:2">
-</a>
-
-<br><br><br>
-
-<h2>8. Product Sale Ad Banners Design</h2>
-<h6>Click on the project thumbnails below to view the Full Detailed Images 👇👇🏻</h6>
-
-<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="super-sale.png" alt="NikeSuperSale" style="width:360px;height:180px;border:2"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="oneplus-offer.png" alt="NikeSuperSale" style="width:360px;height:180px;border:2"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="beats-offer.png" alt="NikeSuperSale" style="width:360px;height:180px;border:2"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/gallery/138408709/Product-Sale-Ad-Banners-Design">
-<img src="NikeSuperSale.png" alt="NikeSuperSale" style="width:360px;height:180px;border:2"></a>
-&nbsp;&nbsp;&nbsp;
 
 
 
