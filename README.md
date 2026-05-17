@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
+
 # Hi, I'm Shadman Arafin 👋
 
 ### UI/UX • Product • SaaS Experience Designer
@@ -92,25 +96,23 @@ Healthcare-focused product experience built around accessibility, personalizatio
 <p align="left">
 
 <a href="https://www.behance.net/shadmanarafin" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=behance" height="45" />
 </a>
-
 
 <a href="https://dribbble.com/ShadmanArafin" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="40" />
+<img src="https://img.icons8.com/color/48/dribbble.png" height="45" />
 </a>
-
 
 <a href="https://www.linkedin.com/in/shadmanarafin/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-
 <a href="mailto:shadmanarafinsezan@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
 </p>
+
 
 ---
 
