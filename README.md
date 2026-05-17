@@ -10,7 +10,7 @@
 
 <img align="right" src="coding.gif" width="300">
 
-- 🔭 I’m currently working as an UI/UX Designer at <a href="https://www.zaagsys.com/"><i><b>Zaag Systems ltd.</b></i></a>
+- 🔭 I’m currently working as a UI/UX Designer at <a href="https://www.zaagsys.com/"><i><b>Zaag Systems ltd.</b></i></a>
 - 🌱 I’m currently learning <i><b>Webflow & Framer.</b></i>
 
 - 👯 I’m looking to collaborate on <i><b>UI/UX & Web Design 🎨</b></i>
@@ -35,21 +35,12 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp;  
- <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;</p>
 
 <br><br>
 
 <h2><align="left">My Resume :</h2>
 
-<h4>If you want to know more about myself then you can download my full Resume by clicking the <i><b>"Download Resume"</b></i> button from below 👇🏻</h4><br>
+<h4>If you want to know more about myself, then you can download my full Resume by clicking the <i><b>"Download Resume"</b></i> button from below 👇🏻</h4><br>
 <a href="https://drive.google.com/file/d/1VDjtQ0bUJQSc1OXbeBSC9RJ9zQv88NQx/view?usp=sharing">
 <p align="center"><img src="resume-button.png" alt="pic" style="width="50"; height="50"; border:2"></p></a>
  
