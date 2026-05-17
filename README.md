@@ -98,7 +98,7 @@ Mobile-first booking experience optimized for speed, trust, and conversion.
 
 ## 🏥 X Health Hub — Personalized Healthcare Platform
 
-Patient-centered healthcare system designed for accessibility and personalization.
+A patient-centered healthcare system designed for accessibility and personalization.
 
 🔗 https://dribbble.com/shots/17614623-X-Health-Hub-Personalized-Healthcare
 
