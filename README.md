@@ -86,15 +86,6 @@ Healthcare-focused product experience built around accessibility, personalizatio
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadmanarafin&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanarafin&theme=transparent&hide_border=true" width="48%" />
-</p>
-
----
 
 # 🌐 Portfolio & Profiles
 
