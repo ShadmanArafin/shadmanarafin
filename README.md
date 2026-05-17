@@ -92,7 +92,7 @@ Healthcare-focused product experience built around accessibility, personalizatio
 <p align="left">
 
 <a href="https://www.behance.net/shadmanarafin" target="_blank">
-<img src="https://skillicons.dev/icons?i=behance" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="40" />
 </a>
 
 <a href="https://dribbble.com/ShadmanArafin" target="_blank">
@@ -100,11 +100,11 @@ Healthcare-focused product experience built around accessibility, personalizatio
 </a>
 
 <a href="https://www.linkedin.com/in/shadmanarafin/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" />
 </a>
 
 <a href="mailto:shadmanarafinsezan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" />
 </a>
 
 </p>
