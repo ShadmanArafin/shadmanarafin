@@ -1,50 +1,64 @@
+
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=shadmanarafin&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-# Hi, I'm Shadman Arafin 👋
+<br/>
 
-### UI/UX • Product • SaaS Experience Designer
+# <p align="center">Shadman Arafin</p>
 
-I design modern digital products focused on usability, scalability, and business impact.
+### <p align="center">Product Designer • UI/UX • SaaS & AI Experience Designer</p>
 
-Currently working as a **User Experience Designer at Zaag Systems Ltd.**, creating intuitive experiences across SaaS platforms, AI-powered products, dashboards, mobile apps, and enterprise systems.
+<br/>
 
----
+<p align="center">
+I design scalable digital products that simplify complex systems into intuitive, usable, and high-performing experiences.
+</p>
 
-## 🚀 About Me
-
-* 🎯 Specialized in **Product Design, UI/UX & SaaS Experiences**
-* 🧠 Strong focus on usability, accessibility & scalable design systems
-* ⚡ Passionate about simplifying complex workflows into intuitive interfaces
-* 📊 Experienced in dashboards, AI products, healthcare systems & management platforms
-* 🎨 Focused on balancing aesthetics with business-driven UX decisions
+<p align="center">
+Currently designing SaaS platforms, AI systems, dashboards, and enterprise tools at <b>Zaag Systems Ltd.</b>
+</p>
 
 ---
 
-# 🛠 Design Stack
+<br/>
 
-### Design Tools
+# ⚡ What I Focus On
 
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma)
+<p align="center">
 
-### Frontend Knowledge
+SaaS UX • AI Product Design • Enterprise Systems • Dashboard UX  
+Workflow Design • Design Systems • Information Architecture
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
-
-### Expertise
-
-`Product Design` • `UI/UX Design` • `Design Systems` • `Dashboard UX` • `SaaS UX` • `AI Product Design` • `Wireframing` • `Prototyping` • `Interaction Design` • `Accessibility`
+</p>
 
 ---
 
-# 🌟 Featured Projects
+<br/>
+
+# 🧠 Design Principle
+
+<p align="center">
+
+> “If users need instructions, the design is already failing.”
+
+</p>
+
+---
+
+<br/>
+
+# 📌 Selected Work
+
+<p align="center">
+A curated set of systems designed for scale, clarity, and real-world impact.
+</p>
+
+---
 
 ## 🚚 Fleet Hub — Vehicle Management System
 
-Enterprise fleet management experience focused on monitoring, reporting, and operational visibility.
+Enterprise logistics platform for real-time tracking, operations, and system-level visibility.
 
 🔗 https://dribbble.com/shots/19307344-Fleet-Hub-Vehicle-Management-System
 
@@ -52,7 +66,7 @@ Enterprise fleet management experience focused on monitoring, reporting, and ope
 
 ## 📈 Pixel Pulse — Digital Agency Management System
 
-A clean SaaS dashboard experience for managing teams, analytics, projects, and workflows.
+SaaS dashboard for managing teams, projects, analytics, and performance workflows.
 
 🔗 https://dribbble.com/shots/17614707-Pixel-Pulse-Digital-Agency-Management-System
 
@@ -60,7 +74,7 @@ A clean SaaS dashboard experience for managing teams, analytics, projects, and w
 
 ## ⛽ FuelPro — Fuel Management System
 
-A modern fuel management dashboard designed for operational efficiency, analytics, and workflow optimization.
+Operational platform for resource tracking, analytics, and workflow optimization.
 
 🔗 https://dribbble.com/shots/17614608-FuelPro-Fuel-Management-System
 
@@ -68,7 +82,7 @@ A modern fuel management dashboard designed for operational efficiency, analytic
 
 ## 🤖 IntelliHealth — AI-Powered Health Consultation
 
-AI-driven healthcare consultation experience focused on conversational flows and simplified decision-making.
+AI-driven healthcare experience focused on conversational UX and decision support.
 
 🔗 https://dribbble.com/shots/17614669-IntelliHealth-AI-Powered-Health-Consultation
 
@@ -76,7 +90,7 @@ AI-driven healthcare consultation experience focused on conversational flows and
 
 ## 🏨 Hotel Booking App
 
-Modern booking experience with clean interactions, mobile-first UX, and streamlined user journeys.
+Mobile-first booking experience optimized for speed, trust, and conversion.
 
 🔗 https://dribbble.com/shots/23145706-Hotel-Booking-App
 
@@ -84,44 +98,67 @@ Modern booking experience with clean interactions, mobile-first UX, and streamli
 
 ## 🏥 X Health Hub — Personalized Healthcare Platform
 
-Healthcare-focused product experience built around accessibility, personalization, and patient-centered UX.
+Patient-centered healthcare system designed for accessibility and personalization.
 
 🔗 https://dribbble.com/shots/17614623-X-Health-Hub-Personalized-Healthcare
 
 ---
 
+<br/>
 
-# 🌐 Portfolio & Profiles
+# 🧰 Core Expertise
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.behance.net/shadmanarafin" target="_blank">
-<img src="https://skillicons.dev/icons?i=behance" height="45" />
+Product Design • SaaS UX • Dashboard Systems • AI UX  
+UX Strategy • Interaction Design • Design Systems • Usability Architecture
+
+</p>
+
+---
+
+<br/>
+
+# 🌐 Connect
+
+<p align="center" style="display:flex; gap:18px; justify-content:center;">
+
+<a href="https://www.behance.net/shadmanarafin">
+<img src="https://s.magecdn.com/social/tc-behance.svg" height="40" />
 </a>
 
-<a href="https://dribbble.com/ShadmanArafin" target="_blank">
-<img src="https://img.icons8.com/color/48/dribbble.png" height="45" />
+<a href="https://dribbble.com/ShadmanArafin">
+<img src="https://s.magecdn.com/social/tc-dribbble.svg" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/shadmanarafin/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="https://github.com/shadmanarafin">
+<img src="https://s.magecdn.com/social/tc-github.svg" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/shadmanarafin/">
+<img src="https://s.magecdn.com/social/tc-linkedin.svg" height="40" />
 </a>
 
 <a href="mailto:shadmanarafinsezan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<img src="https://s.magecdn.com/social/tc-mail.svg" height="40" />
 </a>
 
 </p>
 
-
 ---
 
-# 🌍 Website
+<br/>
 
-🔗 https://shadmanarafin.netlify.app
-
----
+# 🌍 Portfolio
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadmanarafin&label=Profile%20Views&color=0e75b6&style=flat" />
+👉 https://shadmanarafin.netlify.app
+</p>
+
+---
+
+<br/>
+
+<p align="center">
+<b>Designing systems that scale, not interfaces that decorate.</b>
 </p>
