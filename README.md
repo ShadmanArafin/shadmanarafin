@@ -10,11 +10,8 @@
 
 <img align="right" src="coding.gif" width="300">
 
-- 🔭 I’m currently working as a UI/UX Designer at <a href="https://www.zaagsys.com/"><i><b>Zaag Systems ltd.</b></i></a>
-- 🌱 I’m currently learning <i><b>Webflow & Framer.</b></i>
-
+- 🔭 I’m currently working as a User Experience Designer at <a href="https://www.zaagsys.com/"><i><b>Zaag Systems ltd.</b></i></a>
 - 👯 I’m looking to collaborate on <i><b>UI/UX & Web Design 🎨</b></i>
-
 - 👨‍💻 All of my projects are available at : <span align="left"> &nbsp; <a href="https://www.behance.net/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRde9DErvg_6bYD5XElEA9JsB1Y4unw8m67rg&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a> &nbsp; <a href="https://dribbble.com/ShadmanArafin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2_ReXuzRMOYYpv8Y93I8QAub9pvapxuSPb83HoOEkd1NWzhJQRjf0uw6h0ZDGQvZejk&usqp=CAU" alt="ShadmanArafin" height="40" width="40" /></a></span> 
 
 
