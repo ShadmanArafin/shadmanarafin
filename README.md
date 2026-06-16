@@ -150,12 +150,6 @@ UX Strategy • Interaction Design • Design Systems • Usability Architecture
 
 <br/>
 
-# 🌍 Portfolio
-
-<p align="center">
-👉 https://shadmanarafin.netlify.app
-</p>
-
 ---
 
 <br/>
