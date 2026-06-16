@@ -150,10 +150,6 @@ UX Strategy • Interaction Design • Design Systems • Usability Architecture
 
 <br/>
 
----
-
-<br/>
-
 <p align="center">
 <b>Designing systems that scale, not interfaces that decorate.</b>
 </p>
