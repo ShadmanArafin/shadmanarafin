@@ -12,11 +12,12 @@
 <br/>
 
 <p align="center">
-I design scalable digital products that simplify complex systems into intuitive, usable, and high-performing experiences.
+Product Designer with nearly 4+ years of experience designing and scaling complex SaaS platforms, AI-powered applications, ERP systems, and enterprise workflow products. Experienced in leading product design from discovery to delivery, including user research, competitive analysis, requirements gathering, feature planning, UX architecture, interactive prototyping, stakeholder collaboration, developer handoff, and design QA/UAT validation.
+Strong background in Computer Science with hands-on experience working directly with international clients across the United States, Europe, and Asia. Passionate about simplifying complex workflows, solving user pain points, and designing scalable products that improve operational efficiency and user adoption.
 </p>
 
 <p align="center">
-Currently designing SaaS platforms, AI systems, dashboards, and enterprise tools at <b>Zaag Systems Ltd.</b>
+Currently working at <b>Zaag Systems Ltd.</b>
 </p>
 
 ---
