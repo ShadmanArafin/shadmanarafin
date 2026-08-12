@@ -24,7 +24,7 @@ Currently working at <b>Zaag Systems Ltd.</b>
 
 <p align="center">
   ## 📄Resume <br/> <br/>
-  <a href="https://drive.google.com/file/d/14iw_CKWMimLpbZhdb2RyS4zdS54Pt4gh/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1MPFA2mItSo9ZD80uGpExE1wIHTLpBh9Q/view?usp=sharing" target="_blank">
     <strong>View Resume ↗</strong>
   </a>
   ·
