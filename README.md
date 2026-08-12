@@ -21,14 +21,10 @@ Currently working at <b>Zaag Systems Ltd.</b>
 </p>
 
 
-## 📄 Resume
-
-[**View my CV →**](./assets/Shadman-Arafin-CV.pdf)
-
-
 <p align="center">
-  <a href="./assets/Shadman-Arafin-CV.pdf">
-    <strong>📄 View My CV →</strong>
+  ## 📄 Resume
+  <a href="./assets/Shadman-Arafin-Resume.pdf">
+    <strong> View My CV → </strong>
   </a>
 </p>
 
