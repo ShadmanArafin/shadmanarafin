@@ -20,6 +20,19 @@ Strong background in Computer Science with hands-on experience working directly 
 Currently working at <b>Zaag Systems Ltd.</b>
 </p>
 
+
+## 📄 Resume
+
+[**View my CV →**](./assets/Shadman-Arafin-CV.pdf)
+
+
+<p align="center">
+  <a href="./assets/Shadman-Arafin-CV.pdf">
+    <strong>📄 View My CV →</strong>
+  </a>
+</p>
+
+
 ---
 
 <br/>
