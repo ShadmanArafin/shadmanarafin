@@ -22,7 +22,7 @@ Currently working at <b>Zaag Systems Ltd.</b>
 
 
 <p align="center">
-  ## 📄 Resume
+  # 📄 Resume #
   <br/>
   <a href="./assets/Shadman-Arafin-Resume.pdf">
     <strong> View My CV → </strong>
