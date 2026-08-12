@@ -22,10 +22,15 @@ Currently working at <b>Zaag Systems Ltd.</b>
 
 
 <p align="center">
- ## 📄 Resume
-
-[**View Resume**](https://drive.google.com/file/d/14iw_CKWMimLpbZhdb2RyS4zdS54Pt4gh/view?usp=sharing) · [**Download PDF**](https://raw.githubusercontent.com/ShadmanArafin/shadmanarafin/main/assets/Shadman-Arafin-Resume.pdf)
+  <a href="https://drive.google.com/file/d/14iw_CKWMimLpbZhdb2RyS4zdS54Pt4gh/view?usp=sharing" target="_blank">
+    <strong>View Resume ↗</strong>
+  </a>
+  ·
+  <a href="https://raw.githubusercontent.com/ShadmanArafin/shadmanarafin/main/assets/Shadman-Arafin-Resume.pdf" target="_blank">
+    <strong>Download PDF ↓</strong>
+  </a>
 </p>
+
 
 
 ---
