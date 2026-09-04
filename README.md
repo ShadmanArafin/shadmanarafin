@@ -11,14 +11,10 @@
 
 <br/>
 
-<p align="center">
-I'm a Product Designer with nearly 4+ years of experience designing complex SaaS platforms, AI-powered applications, enterprise management systems, and workflow-heavy products.
-
-I enjoy solving complex product problems, especially products with multiple user types, large amounts of information, and complicated business processes. My work typically spans the full product design lifecycle, from understanding the problem and gathering requirements to research, information architecture, user flows, wireframing, prototyping, high-fidelity UI, design systems, developer collaboration, and design QA/UAT.
+<p>
+I'm a Product Designer with nearly 4+ years of experience designing complex SaaS platforms, AI-powered applications, enterprise management systems, and workflow-heavy products. I enjoy solving complex product problems, especially products with multiple user types, large amounts of information, and complicated business processes. My work typically spans the full product design lifecycle, from understanding the problem and gathering requirements to research, information architecture, user flows, wireframing, prototyping, high-fidelity UI, design systems, developer collaboration, and design QA/UAT.
   
-I've worked with international clients and cross-functional teams across different industries, including AI, logistics, pharmacy management, restaurant management, legal platforms, and enterprise workflow automation.
-
-I also actively use AI-assisted design workflows to accelerate exploration and prototyping, including Figma Make, Figma MCP, Claude Code, Codex, and OpenCode.
+I've worked with international clients and cross-functional teams across different industries, including AI, logistics, pharmacy management, restaurant management, legal platforms, and enterprise workflow automation. I also actively use AI-assisted design workflows to accelerate exploration and prototyping, including Figma Make, Figma MCP, Claude Code, Codex, and Open Code.
 
 Currently, I'm working as a Product Designer at Truck Lagbe, where I'm focused on designing and improving digital products that solve real-world logistics and transportation problems.
 </p>
@@ -26,7 +22,7 @@ Currently, I'm working as a Product Designer at Truck Lagbe, where I'm focused o
 <br/>
 
 <p align="center">
-  ## 📄Resume <br/> <br/>
+  ## 📄Resume  ##<br/> <br/>
   <a href="https://drive.google.com/file/d/1MPFA2mItSo9ZD80uGpExE1wIHTLpBh9Q/view?usp=sharing" target="_blank">
     <strong>View Resume ↗</strong>
   </a>
