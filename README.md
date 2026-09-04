@@ -12,12 +12,15 @@
 <br/>
 
 <p align="center">
-Product Designer with nearly 4+ years of experience designing and scaling complex SaaS platforms, AI-powered applications, ERP systems, and enterprise workflow products. Experienced in leading product design from discovery to delivery, including user research, competitive analysis, requirements gathering, feature planning, UX architecture, interactive prototyping, stakeholder collaboration, developer handoff, and design QA/UAT validation.
-Strong background in Computer Science with hands-on experience working directly with international clients across the United States, Europe, and Asia. Passionate about simplifying complex workflows, solving user pain points, and designing scalable products that improve operational efficiency and user adoption.
-</p>
+I'm a Product Designer with nearly 4+ years of experience designing complex SaaS platforms, AI-powered applications, enterprise management systems, and workflow-heavy products.
 
-<p align="center">
-Currently working at <b>Zaag Systems Ltd.</b>
+I enjoy solving complex product problems, especially products with multiple user types, large amounts of information, and complicated business processes. My work typically spans the full product design lifecycle, from understanding the problem and gathering requirements to research, information architecture, user flows, wireframing, prototyping, high-fidelity UI, design systems, developer collaboration, and design QA/UAT.
+  
+I've worked with international clients and cross-functional teams across different industries, including AI, logistics, pharmacy management, restaurant management, legal platforms, and enterprise workflow automation.
+
+I also actively use AI-assisted design workflows to accelerate exploration and prototyping, including Figma Make, Figma MCP, Claude Code, Codex, and OpenCode.
+
+Currently, I'm working as a Product Designer at Truck Lagbe, where I'm focused on designing and improving digital products that solve real-world logistics and transportation problems.
 </p>
 
 <br/>
